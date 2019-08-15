@@ -13,6 +13,8 @@ cache:
 addons:
     sonarcloud:
         organization: "bayuadinh"
+        token: 
+            secure: "55213791fe5f6a01dfc6b5ca726addd399112293"
 
 git:
     depth: false
