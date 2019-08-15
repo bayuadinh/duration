@@ -1,0 +1,6 @@
+projectKey=duration-01
+serverUrl=http://192.168.63.10:8081
+serverVersion=7.9.1.27448
+dashboardUrl=http://192.168.63.10:8081/dashboard?id=duration-01
+ceTaskId=AWyVjts0MZL1L6vDzBTI
+ceTaskUrl=http://192.168.63.10:8081/api/ce/task?id=AWyVjts0MZL1L6vDzBTI
