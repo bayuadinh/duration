@@ -12,9 +12,7 @@ cache:
 
 addons:
     sonarcloud:
-        organization: "bayuadinh-github"
-    token:
-        secure: "b99c4ae6f53aee16529c7dc9c948b376fdaeb7cd"
+        organization: "bayuadinh"
 
 git:
     depth: false
